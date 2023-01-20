@@ -1,2 +1,3 @@
 Text document
 Change
+Some change made in the local repository
